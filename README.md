@@ -9,7 +9,6 @@ An advanced educational video generation platform powered by multiple AI models 
 *Experience the power of AI-driven educational content creation. Each video is generated from a simple text prompt using our multi-stage AI pipeline.*
 
 ### **Mathematics & Physics**
-- **[Pythagorean Theorem Visual Proof](https://drive.google.com/file/d/1W6SSUpsupFJBGsY4lsCiCEpCabvubSdw/view?usp=drive_link)** - Interactive geometric demonstration of the fundamental theorem
 - **[Matrix Multiplication Explained](https://drive.google.com/file/d/1OCSYi6uJcVksfRSRJnlTZsLm19P8BNd4/view?usp=drive_link)** - Step-by-step visual breakdown of matrix operations
 - **[Vector Addition in 2D Space](https://drive.google.com/file/d/1UPJFFhrDHfXxWxeOr66Xyk6DPvJ-Xrg9/view?usp=drive_link)** - Animated vector mathematics with geometric intuition
 - **[Solenoid Magnetic Field Physics](https://drive.google.com/file/d/1PnBSnhaJwRTIKrOl96FKSbC8w75R9JIb/view?usp=drive_link)** - Electromagnetic field visualization and physics principles
