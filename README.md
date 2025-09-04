@@ -30,7 +30,7 @@ An advanced educational video generation platform powered by multiple AI models 
 
 [**View All Videos in Google Drive**](https://drive.google.com/drive/folders/1Kwbone8isI3VavxUGmVjprTHNCfXL_EZ?usp=drive_link)
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Configuration
 
